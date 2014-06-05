@@ -318,7 +318,7 @@ int main (int argc, const char * argv[])
 
 	} while(problem_num < 80);
 	
-	return SUCCESS;
+	return FASP_SUCCESS;
 }
 
 /*---------------------------------*/
